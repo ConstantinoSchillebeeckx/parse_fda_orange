@@ -3,6 +3,9 @@
 Parse the [FDA Orange Book](https://www.accessdata.fda.gov/scripts/cder/ob/) into a Postgres database; a similar repo for the [Drugs@FDA database](https://www.accessdata.fda.gov/scripts/cder/daf/) is [also available](https://github.com/ConstantinoSchillebeeckx/parse_fda_drugs).
 
 ## To run
+
+NOTE: project assumes python3
+
 ```
 pip install -r requirements.txt
 ./run.sh

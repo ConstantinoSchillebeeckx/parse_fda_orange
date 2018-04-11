@@ -4,7 +4,7 @@ Parse the [FDA Orange Book](https://www.accessdata.fda.gov/scripts/cder/ob/) int
 
 ## To run
 
-NOTE: project assumes python3
+**NOTE:** project assumes python3
 
 ```
 pip install -r requirements.txt
